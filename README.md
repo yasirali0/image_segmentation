@@ -9,3 +9,7 @@
 - Load a pre-trained state-of-the-art CNN model for the segmentation problem i.e., U-Net using the `segmentation_models_pytorch` library.
 
 - Create a train and evaluator function which will be helpful to write a training loop.
+
+![image](https://github.com/yasirali0/image_segmentation/assets/57907845/0d2d33f3-b564-4007-88b3-0473c5ba0abb)
+
+![image](https://github.com/yasirali0/image_segmentation/assets/57907845/c8b14953-6a71-4bf8-be95-4a3eef3581be)
